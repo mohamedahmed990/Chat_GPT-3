@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Chat_GPT-3/static/css/main.388ba370.css",
+    "main.css": "/Chat_GPT-3/static/css/main.9f5658e0.css",
     "main.js": "/Chat_GPT-3/static/js/main.5242c7c9.js",
     "static/media/Header Illustration.png": "/Chat_GPT-3/static/media/Header Illustration.1fcab8ec94a945c2ea11.png",
     "static/media/Ellipse 35.svg": "/Chat_GPT-3/static/media/Ellipse 35.dfe990cacc2809de2d62e71eb18b9872.svg",
@@ -16,11 +16,11 @@
     "static/media/Rectangle 23.png": "/Chat_GPT-3/static/media/Rectangle 23.a184d2839a9fdeae9aa8.png",
     "static/media/GPT-3.svg": "/Chat_GPT-3/static/media/GPT-3.92f079f336422c102943ff07793db4ad.svg",
     "index.html": "/Chat_GPT-3/index.html",
-    "main.388ba370.css.map": "/Chat_GPT-3/static/css/main.388ba370.css.map",
+    "main.9f5658e0.css.map": "/Chat_GPT-3/static/css/main.9f5658e0.css.map",
     "main.5242c7c9.js.map": "/Chat_GPT-3/static/js/main.5242c7c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.388ba370.css",
+    "static/css/main.9f5658e0.css",
     "static/js/main.5242c7c9.js"
   ]
 }
