@@ -1,0 +1,98 @@
+footer {
+    background-color: var(--color-footer);
+    padding: 10.9rem 0 1.7rem;
+}
+
+.footer__container {
+    width: 85%;
+    margin: auto;
+    padding: 0 4.5rem;
+}
+
+.footer__heading {
+    text-align: center;
+    font-family: var(--font-family);
+    font-size: 3.875rem;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 4.6875rem;
+    /* 120.968% */
+    letter-spacing: -0.155rem;
+    margin-bottom: 4rem;
+}
+
+.footer__button-container {
+    text-align: center;
+    margin-bottom: 11.56rem;
+}
+
+.footer__button {
+    border: 1px solid #FFF;
+    color: #FFF;
+    background-color: transparent;
+    font-family: var(--font-family);
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 1.37rem 1.3rem;
+}
+
+.footer__social {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__social-links-text,
+.footer__company-text,
+.footer__Get-in-touch-text {
+    margin-bottom: 1.62rem;
+    color: #FFF;
+    font-family: Gilroy-Medium;
+    font-size: 0.75rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.25rem;
+}
+
+.footer__social-links-heading,
+.footer__company-heading,
+.footer__Get-in-touch-heading {
+    margin-bottom: 1.62rem;
+    color: #FFF;
+    font-family: Gilroy-bold;
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.footer__social-logo-img {
+    width: 7.375rem;
+    margin-bottom: 1.56rem;
+}
+
+.footer__social-logo-img img {
+    width: 100%;
+}
+
+.footer__social-logo-text {
+    width: 60%;
+    color: #FFF;
+    font-family: Gilroy-Medium;
+    font-size: 0.75rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.footer__copyright-text {
+    text-align: center;
+    color: #FFF;
+    font-feature-settings: 'liga' off;
+    font-family: Gilroy-Medium;
+    font-size: 0.75rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
