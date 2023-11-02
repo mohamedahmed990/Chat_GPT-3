@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/%7BChat_GPT-3%7D/static/css/main.d3c76a58.css",
+    "main.js": "/%7BChat_GPT-3%7D/static/js/main.4b79630c.js",
+    "static/media/Header Illustration.png": "/%7BChat_GPT-3%7D/static/media/Header Illustration.1fcab8ec94a945c2ea11.png",
+    "static/media/Ellipse 35.svg": "/%7BChat_GPT-3%7D/static/media/Ellipse 35.dfe990cacc2809de2d62e71eb18b9872.svg",
+    "static/media/Ellipse 36.svg": "/%7BChat_GPT-3%7D/static/media/Ellipse 36.73c31d173cdd89ada9f0fafe4c2d82f2.svg",
+    "static/media/Ellipse 31.svg": "/%7BChat_GPT-3%7D/static/media/Ellipse 31.87ec248db75f231bb03e1ff79e5e1e78.svg",
+    "static/media/Ellipse 33.svg": "/%7BChat_GPT-3%7D/static/media/Ellipse 33.26e32a6728f018f31e6e9d1d9782d067.svg",
+    "static/media/Rectangle 22.png": "/%7BChat_GPT-3%7D/static/media/Rectangle 22.27442f119d71df572edb.png",
+    "static/media/gilroy-regular.ttf": "/%7BChat_GPT-3%7D/static/media/gilroy-regular.5b89a8df3b17dccdb73f.ttf",
+    "static/media/gilroy-bold.ttf": "/%7BChat_GPT-3%7D/static/media/gilroy-bold.ca49f7658c4eaac78b6d.ttf",
+    "static/media/Rectangle 25.png": "/%7BChat_GPT-3%7D/static/media/Rectangle 25.649046e1b7851d3f5550.png",
+    "static/media/Rectangle 24.png": "/%7BChat_GPT-3%7D/static/media/Rectangle 24.045044c23b1c585bb67b.png",
+    "static/media/Rectangle 26.png": "/%7BChat_GPT-3%7D/static/media/Rectangle 26.f45005c6ec4cdeda97bf.png",
+    "static/media/Rectangle 23.png": "/%7BChat_GPT-3%7D/static/media/Rectangle 23.a184d2839a9fdeae9aa8.png",
+    "static/media/GPT-3.svg": "/%7BChat_GPT-3%7D/static/media/GPT-3.92f079f336422c102943ff07793db4ad.svg",
+    "index.html": "/%7BChat_GPT-3%7D/index.html",
+    "main.d3c76a58.css.map": "/%7BChat_GPT-3%7D/static/css/main.d3c76a58.css.map",
+    "main.4b79630c.js.map": "/%7BChat_GPT-3%7D/static/js/main.4b79630c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c76a58.css",
+    "static/js/main.4b79630c.js"
+  ]
+}
