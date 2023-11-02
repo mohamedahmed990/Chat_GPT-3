@@ -108,7 +108,7 @@
     }
 }
 
-@media screen and (max-width:425px) {
+@media screen and (max-width:560px) {
     .what-gpt3__explore {
         flex-direction: column;
         gap: 2rem;

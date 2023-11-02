@@ -96,19 +96,19 @@ a {
 
 @media screen and (max-width: 1300px) {
   html{
-    font-size: 14px;
+    font-size: 15px;
   }
   
 }
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1050px) {
   html{
-    font-size: 12px;
+    font-size: 14px;
   }
   
 }
 @media screen and (max-width: 750px) {
   html{
-    font-size:11px;
+    font-size: 13px;
   }
   .section__padding {
     padding: 4rem;

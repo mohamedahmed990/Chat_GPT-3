@@ -11,7 +11,7 @@ export default function Blog() {
     <>
       <div className={`${Style["blog"]}`}>
         <h1 className={`${Style["blog__heading"]} gradient__text` }>
-          A lot is happening,<br /> We are blogging about it.
+          A lot is happening, We are blogging about it.
         </h1>
         <div className={`${Style["blog__articles"]}`}>
           <div className={`${Style["blog__main-article-container"]}`}>
