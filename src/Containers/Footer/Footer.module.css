@@ -11,13 +11,6 @@ footer {
 
 .footer__heading {
     text-align: center;
-    font-family: var(--font-family);
-    font-size: 3.875rem;
-    font-style: normal;
-    font-weight: 800;
-    line-height: 4.6875rem;
-    /* 120.968% */
-    letter-spacing: -0.155rem;
     margin-bottom: 4rem;
 }
 

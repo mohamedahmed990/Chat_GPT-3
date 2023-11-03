@@ -4,17 +4,37 @@
 
 .brands {
     display: flex;
+    justify-content: space-between;
     gap: 2.91rem;
-    width: max-content;
+    width:40%;
+    margin: auto;
     margin: 0 auto;
 
 }
 
 .brands-logo {
-    width: 4.44375rem;
+    width: 25%;
 }
 
 .brands-logo img {
     width: 100%;
     height: 100%;
+}
+@media screen and (max-width: 720px) {
+    .brands {
+       flex-wrap: wrap;
+       gap: 0;
+    }
+    .brands-logo {
+        width: 50%;
+        padding: 2rem;
+    }
+    
+}
+
+@media screen and (max-width: 540px) {
+    .brands {
+        width: 50%;
+     }
+    
 }

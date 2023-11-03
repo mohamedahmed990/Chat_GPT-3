@@ -8,7 +8,7 @@ export default function Footer() {
     <>
       <footer className={`${Style["footer"]}`}>
         <div className={`${Style["footer__container"]}`}>
-          <h2 className={`${Style["footer__heading"]} gradient__text`}>
+          <h2 className={`${Style["footer__heading"]} gradient__text section-heading`}>
             Do you want to step in to the future before others
           </h2>
           <div className={`${Style["footer__button-container"]}`}>

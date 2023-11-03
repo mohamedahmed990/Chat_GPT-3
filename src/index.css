@@ -120,12 +120,9 @@ a {
 }
 
 @media screen and (max-width: 550px) {
-   .section__padding {
-    padding: 4rem 2rem;
-  }
-
-  .section__margin {
-    margin: 4rem 2rem;
+   
+  .section-heading {
+    font-size: 3rem;
   }
 }
 
