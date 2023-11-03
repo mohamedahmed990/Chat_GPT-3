@@ -1,10 +1,10 @@
 import React from "react";
 import Style from "./Blog.module.css";
-import MainArticleImg from "../../assets/Rectangle 22.png";
-import SubArticleImg1 from "../../assets/Rectangle 23.png";
-import SubArticleImg2 from "../../assets/Rectangle 24.png";
-import SubArticleImg3 from "../../assets/Rectangle 25.png";
-import SubArticleImg4 from "../../assets/Rectangle 26.png";
+import MainArticleImg from "../../assets/Rectangle 22.svg";
+import SubArticleImg1 from "../../assets/Rectangle 23.svg";
+import SubArticleImg2 from "../../assets/Rectangle 24.svg";
+import SubArticleImg3 from "../../assets/Rectangle 25.svg";
+import SubArticleImg4 from "../../assets/Rectangle 26.svg";
 
 export default function Blog() {
   return (
