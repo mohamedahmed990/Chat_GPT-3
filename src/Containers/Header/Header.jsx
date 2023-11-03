@@ -10,7 +10,6 @@ export default function Header() {
   return (
     <>
       <header className={`${Style["header"]}`}>
-        <div className={`${Style["header__bg-layer"]}`}></div>
         <div className={`${Style["header__content"]}`}>
           <h1
             className={`${Style["header__heading"]} gradient__text section-heading`}

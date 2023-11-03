@@ -3,12 +3,13 @@ import Style from "./Footer.module.css";
 import FooterLogo from "../../assets/GPT-3.svg";
 
 export default function Footer() {
+  
   return (
     <>
       <footer className={`${Style["footer"]}`}>
         <div className={`${Style["footer__container"]}`}>
           <h2 className={`${Style["footer__heading"]} gradient__text`}>
-            Do you want to step in to the <br /> future before others
+            Do you want to step in to the future before others
           </h2>
           <div className={`${Style["footer__button-container"]}`}>
             <button className={`${Style["footer__button"]}`}>

@@ -41,7 +41,17 @@ footer {
 .footer__social {
     display: flex;
     justify-content: space-between;
+    /* gap: 1rem; */
 }
+
+.footer__social-logo,
+.footer__social-links,
+.footer__company,
+.footer__Get-in-touch {
+    /* padding :2rem; */
+    width: 25%;
+}
+
 
 .footer__social-links-text,
 .footer__company-text,
@@ -77,7 +87,7 @@ footer {
 }
 
 .footer__social-logo-text {
-    width: 60%;
+    width: 70%;
     color: #FFF;
     font-family: Gilroy-Medium;
     font-size: 0.75rem;
@@ -95,4 +105,27 @@ footer {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+}
+
+@media screen and (max-width: 910px) {
+    .footer__social {
+        flex-wrap: wrap;
+    }
+    .footer__social-logo,
+    .footer__social-links,
+    .footer__company,
+    .footer__Get-in-touch {
+        padding :2rem;
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 570px) {
+    .footer__social-logo,
+    .footer__social-links,
+    .footer__company,
+    .footer__Get-in-touch {
+        width: 100%;
+    }
+    
 }

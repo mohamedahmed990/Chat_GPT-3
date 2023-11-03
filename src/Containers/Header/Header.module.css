@@ -6,15 +6,6 @@
     margin: 0 auto 8.5rem;
     gap: 0;
 }
-.header__layer-bg{
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: -1;
-    
-}
 
 .header__content,
 .header__photo {
@@ -78,12 +69,13 @@
 
 .header__clients {
     display: flex;
-    gap: 1rem;
+    flex-direction: column;
+    gap: 2.5rem;
     margin-top: 2.46rem;
 }
 
 .header__clients-imgs {
-    width: 11.36163rem;
+    width: 30%;
     position: relative;
 }
 
@@ -125,7 +117,7 @@
 }
 
 .header__clients-text {
-    width: 36.37009rem;
+    width: 70%;
     color: #FFF;
     font-family: var(--font-family);
     font-size: 0.75rem;
@@ -137,8 +129,9 @@
 @media screen and (max-width: 650px) {
     .header {
         flex-direction: column;
+        gap:3rem;
     }
-
+    
     .header__content,
     .header__photo {
         width: 100%;

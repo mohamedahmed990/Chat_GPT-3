@@ -31,7 +31,7 @@
     width: 85%;
     margin: 0 auto;
     display: flex;
-    gap: 8rem;
+    gap: 4rem;
 }
 
 .feature-section__heading {
@@ -65,6 +65,7 @@
     display: flex;
     justify-content: space-between;
     margin-bottom: 1.25rem;
+    gap: 1rem;
 }
 
 .feature-section__group-heading {
@@ -101,11 +102,7 @@
     line-height: 1.5rem;
 }
 
-@media screen and (min-width: 750px) and (max-width: 920px) {
-    .feature-section__heading {
-        display: flex;
-        justify-content: space-between;
-    }
+@media screen and (max-width: 920px) {
 
     .feature-section__heading,
     .feature-section__groups {
@@ -116,53 +113,45 @@
         display: flex;
         flex-wrap: wrap;
     }
-    .feature-section__group{
+
+    .feature-section__group {
         width: 50%;
         padding: 1rem;
     }
-    
+
 
     .feature-section__heading-content {
-        width: 60%;
+        width: 100%;
     }
 
     .feature-section__container {
         flex-direction: column;
-        gap: 3rem;
+        gap: 2rem;
     }
 
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 790px) {
     .feature-section__container {
         flex-direction: column;
         gap: 3rem;
 
-    }
-
-    .feature-section__heading {
-        width: 100%;
-        display: flex;
-        justify-content: space-between;
     }
 
     .feature-section__heading-subtext {
         margin-top: 2.5rem;
     }
 
-    .feature-section__heading-content {
-        width: 60%;
-    }
-
     .feature-section__groups {
         display: flex;
         flex-direction: column;
-        gap: 3rem;
         width: 100%;
     }
 
     .feature-section__group {
+        width: 100%;
         gap: 2rem;
+        padding:0;  
     }
 
     .feature-section__group-heading {
@@ -175,15 +164,24 @@
 }
 
 @media screen and (max-width: 530px) {
-    .feature-section__heading {
-        flex-direction: column;
-        gap :2rem;
 
-    }
     .feature-section__heading-subtext,
-    .feature-section__heading-content{
+    .feature-section__heading-content {
         width: 100%;
-        margin:0;
     }
-    
+
+    .feature-section__group {
+        flex-direction: column;
+        gap: .5rem;
+        margin-bottom: 2rem;
+    }
+
+    .feature-section__group-heading {
+        width: 100%;
+    }
+
+    .feature-section__group-description {
+        width: 100%;
+    }
+
 }
