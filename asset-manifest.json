@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Chat_GPT-3/static/css/main.9f0ade31.css",
-    "main.js": "/Chat_GPT-3/static/js/main.aa1be867.js",
+    "main.css": "/Chat_GPT-3/static/css/main.0c5a2079.css",
+    "main.js": "/Chat_GPT-3/static/js/main.3b10fc5c.js",
     "static/media/Header Illustration.png": "/Chat_GPT-3/static/media/Header Illustration.1fcab8ec94a945c2ea11.png",
     "static/media/Ellipse 35.svg": "/Chat_GPT-3/static/media/Ellipse 35.dfe990cacc2809de2d62e71eb18b9872.svg",
     "static/media/Ellipse 36.svg": "/Chat_GPT-3/static/media/Ellipse 36.73c31d173cdd89ada9f0fafe4c2d82f2.svg",
@@ -16,11 +16,11 @@
     "static/media/Rectangle 23.png": "/Chat_GPT-3/static/media/Rectangle 23.a184d2839a9fdeae9aa8.png",
     "static/media/GPT-3.svg": "/Chat_GPT-3/static/media/GPT-3.92f079f336422c102943ff07793db4ad.svg",
     "index.html": "/Chat_GPT-3/index.html",
-    "main.9f0ade31.css.map": "/Chat_GPT-3/static/css/main.9f0ade31.css.map",
-    "main.aa1be867.js.map": "/Chat_GPT-3/static/js/main.aa1be867.js.map"
+    "main.0c5a2079.css.map": "/Chat_GPT-3/static/css/main.0c5a2079.css.map",
+    "main.3b10fc5c.js.map": "/Chat_GPT-3/static/js/main.3b10fc5c.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f0ade31.css",
-    "static/js/main.aa1be867.js"
+    "static/css/main.0c5a2079.css",
+    "static/js/main.3b10fc5c.js"
   ]
 }
