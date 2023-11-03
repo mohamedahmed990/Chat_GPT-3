@@ -1,6 +1,6 @@
 import React from "react";
 import Style from "./Header.module.css";
-import HeaderPhoto from "../../assets/Header Illustration.png";
+import HeaderPhoto from "../../assets/Illustration.svg";
 import client1 from "../../assets/Ellipse 31.svg";
 import client2 from "../../assets/Ellipse 33.svg";
 import client3 from "../../assets/Ellipse 35.svg";

@@ -10,7 +10,7 @@ export default function Blog() {
   return (
     <>
       <div className={`${Style["blog"]}`}>
-        <h1 className={`${Style["blog__heading"]} gradient__text` }>
+        <h1 className={`${Style["blog__heading"]} gradient__text section-heading` }>
           A lot is happening, We are blogging about it.
         </h1>
         <div className={`${Style["blog__articles"]}`}>
