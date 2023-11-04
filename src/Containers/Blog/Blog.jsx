@@ -17,7 +17,7 @@ export default function Blog() {
           <div className={`${Style["blog__main-article-container"]}`}>
             <div className={`${Style["blog__main-article"]}`}>
               <div className={`${Style["blog__main-article-img"]}`}>
-                <img src={MainArticleImg} alt="" />
+                
               </div>
               <div className={`${Style["blog__main-article-content"]}`}>
                 <p className={`${Style["blog__main-article-date"]}`}>Sep 26, 2021</p>
@@ -31,8 +31,7 @@ export default function Blog() {
           <div className={`${Style["blog__sub-articles"]}`}>
             <div className={`${Style["blog__article-container"]}`}>
               <div className={`${Style["blog__article"]}`}>
-                <div className={`${Style["blog__article-img"]}`}>
-                  <img src={SubArticleImg1} alt="" />
+                <div className={`${Style["blog__article-img1"]}`}>
                 </div>
                 <div className={`${Style["blog__article-content"]}`}>
                   <p className={`${Style["blog__article-date"]}`}>Sep 26, 2021</p>
@@ -45,8 +44,7 @@ export default function Blog() {
             </div>
             <div className={`${Style["blog__article-container"]}`}>
               <div className={`${Style["blog__article"]}`}>
-                <div className={`${Style["blog__article-img"]}`}>
-                  <img src={SubArticleImg2} alt="" />
+                <div className={`${Style["blog__article-img2"]}`}>
                 </div>
                 <div className={`${Style["blog__article-content"]}`}>
                   <p className={`${Style["blog__article-date"]}`}>Sep 26, 2021</p>
@@ -59,8 +57,7 @@ export default function Blog() {
             </div>
             <div className={`${Style["blog__article-container"]}`}>
               <div className={`${Style["blog__article"]}`}>
-                <div className={`${Style["blog__article-img"]}`}>
-                  <img src={SubArticleImg3} alt="" />
+                <div className={`${Style["blog__article-img3"]}`}>
                 </div>
                 <div className={`${Style["blog__article-content"]}`}>
                   <p className={`${Style["blog__article-date"]}`}>Sep 26, 2021</p>
@@ -73,8 +70,7 @@ export default function Blog() {
             </div>
             <div className={`${Style["blog__article-container"]}`}>
               <div className={`${Style["blog__article"]}`}>
-                <div className={`${Style["blog__article-img"]}`}>
-                  <img src={SubArticleImg4} alt="" />
+                <div className={`${Style["blog__article-img4"]}`}>
                 </div>
                 <div className={`${Style["blog__article-content"]}`}>
                   <p className={`${Style["blog__article-date"]}`}>Sep 26, 2021</p>
